@@ -25,6 +25,6 @@ GUI application for statistical analysis and visualization of Petshop database d
 ##  Quick Start
 ```bash
 git clone https://github.com/yourname/VeronikaKolimova/data-visualization-and-statistical-analysis-GUI-for-Petshop-database.git
-cd petshop-statistical-analyzer
+cd data-visualization-and-statistical-analysis-GUI-for-Petshop-database
 pip install -r requirements.txt
 python ui_db_gui
