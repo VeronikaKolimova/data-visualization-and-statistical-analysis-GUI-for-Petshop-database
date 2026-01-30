@@ -32,3 +32,5 @@ python ui_db_gui.py
 ##  Related Project
 Basic Petshop Database Manager - Previous version with CRUD operations
 https://github.com/VeronikaKolimova/Petshop-Database-Management-System
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/VeronikaKolimova/Petshop-Database-Management-System)
