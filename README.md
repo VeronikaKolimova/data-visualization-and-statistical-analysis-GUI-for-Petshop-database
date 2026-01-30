@@ -28,6 +28,6 @@ git clone https://github.com/VeronikaKolimova/data-visualization-and-statistical
 cd data-visualization-and-statistical-analysis-GUI-for-Petshop-database
 pip install -r requirements.txt
 python ui_db_gui.py
-
+```
 ##  Related Project
 https://github.com/VeronikaKolimova/Petshop-Database-Management-System
